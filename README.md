@@ -6,7 +6,6 @@
 <h1 align="center">Socratic Coder</h1>
 
 <p align="center">
-  <a href="https://skills.sh/nyan-dev/socratic-coder"><img src="https://skills.sh/b/nyan-dev/socratic-coder" alt="skills.sh installs"></a>
   <a href="CHANGELOG.md"><img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Version 1.0.0"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT license"></a>
 </p>
@@ -187,6 +186,7 @@ true across manifests, and the checks to run before publishing.
 ## 📄 License
 
 [MIT](LICENSE). Use it, modify it, ship it in your own projects.
-
 If this helps you, a star helps other people find it.
+
+Made with ❤️ by [@nyan-dev](https://github.com/nyan-dev).
 
