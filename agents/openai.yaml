@@ -1,0 +1,6 @@
+display_name: Socratic Coder
+short_description: Builds with you and makes you do the work, so you understand what you built.
+default_prompt: >
+  Use $socratic-coder to walk me through building this project. Teach it in
+  small slices, ask me a question after each one, and make the naive version
+  break on real input before we upgrade it.

@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace-manifest.json",
+  "name": "socratic-coder",
+  "owner": {
+    "name": "nyan-dev",
+    "url": "https://github.com/nyan-dev"
+  },
+  "description": "A skill that makes your AI build with you instead of for you.",
+  "plugins": [
+    {
+      "name": "socratic-coder",
+      "source": "./",
+      "description": "Teaches you to build by making you do the work, so that you understand what you built.",
+      "license": "MIT",
+      "keywords": [
+        "socratic",
+        "learning",
+        "teaching",
+        "mentor",
+        "education",
+        "skills",
+        "beginner",
+        "machine-learning"
+      ]
+    }
+  ]
+}

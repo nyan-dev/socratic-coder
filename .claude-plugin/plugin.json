@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "socratic-coder",
+  "description": "Teaches you to build by making you do the work, so that you understand what you built.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nyan-dev",
+    "url": "https://github.com/nyan-dev"
+  },
+  "homepage": "https://github.com/nyan-dev/socratic-coder",
+  "repository": "https://github.com/nyan-dev/socratic-coder",
+  "license": "MIT",
+  "keywords": [
+    "socratic",
+    "learning",
+    "teaching",
+    "mentor",
+    "education",
+    "skills",
+    "beginner",
+    "machine-learning"
+  ],
+  "skills": ["./"]
+}
